@@ -17,21 +17,21 @@ Neste repositório foi resolvida a tarefa abaixo referente ao treinamento SQL Ca
 
 - [x] 8- Construa uma query SQL para criar a tabela LOCATIONS (Locações) no banco de dados, e logo em seguida insira as locações;
 
-- [ ] 9 - Construa uma query SQL para editar o campo e-mail do cliente com nome Carolina, onde devemos trocar de “carol@ig.com.br” para “carolina@campuscode.com.br”.
+- [x] 9 - Construa uma query SQL para editar o campo e-mail do cliente com nome Carolina, onde devemos trocar de “carol@ig.com.br” para “carolina@campuscode.com.br”.
 
-- [ ] 10 - Construa uma query SQL para editar a data de nascimento do cliente com nome Josefa para “1986-06-19”.
+- [x] 10 - Construa uma query SQL para editar a data de nascimento do cliente com nome Josefa para “1986-06-19”.
 
-- [ ] 11 - Construa uma query SQL para editar o ano do automóvel com nome Fiat Cronos de “2022” para “2019” da tabela de CARS
+- [x] 11 - Construa uma query SQL para editar o ano do automóvel com nome Fiat Cronos de “2022” para “2019” da tabela de CARS
 
-- [ ] 12 - Construa uma query SQL para excluir o automóvel com nome Hyundai HB20 1.6 da tabela de CARS
+- [x] 12 - Construa uma query SQL para excluir o automóvel com nome Hyundai HB20 1.6 da tabela de CARS
 
-- [ ] 13- Construa uma query SQL para alterar o nome da coluna “PHONE” da tabela de EMPLOYEES, para “PHONE NUMBER”
+- [x] 13- Construa uma query SQL para alterar o nome da coluna “PHONE” da tabela de EMPLOYEES, para “PHONE NUMBER”
 
-- [ ] 14 - Construa uma consulta capaz de exibir somente o name, lastname e email dos clientes que moram no estado de SP
+- [x] 14 - Construa uma consulta capaz de exibir somente o name, lastname e email dos clientes que moram no estado de SP
 
-- [ ] 15 - Construa uma consulta capaz de exibir somente os automóveis que estão com o status “Liberado”
+- [x] 15 - Construa uma consulta capaz de exibir somente os automóveis que estão com o status “Liberado”
 
-- [ ] 16 - Construa uma consulta capaz de exibir todos os automóveis do ano 2016.
+- [x] 16 - Construa uma consulta capaz de exibir todos os automóveis do ano 2016.
 
 - [ ] 17 - Construa uma consulta capaz de exibir todos os funcionários e seus respectivos cargos
 
