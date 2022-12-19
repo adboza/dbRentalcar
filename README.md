@@ -33,11 +33,11 @@ Neste repositório foi resolvida a tarefa abaixo referente ao treinamento SQL Ca
 
 - [x] 16 - Construa uma consulta capaz de exibir todos os automóveis do ano 2016.
 
-- [ ] 17 - Construa uma consulta capaz de exibir todos os funcionários e seus respectivos cargos
+- [x] 17 - Construa uma consulta capaz de exibir todos os funcionários e seus respectivos cargos
 
-- [ ] 18 - Construa uma consulta capaz de exibir somente os funcionários que realizaram mais ou igual a 2 locações.
+- [x] 18 - Construa uma consulta capaz de exibir somente os funcionários que realizaram mais ou igual a 2 locações.
 
-- [ ] 19 - Construa uma consulta capaz de exibir somente os clientes que realizaram mais ou igual a 2 locações.
+- [x] 19 - Construa uma consulta capaz de exibir somente os clientes que realizaram mais ou igual a 2 locações.
 
 - [ ] 20 - Construa uma consulta capaz de exibir todas as locações realizadas, assim como também o nome do cliente, do automóvel e do funcionário vinculados em cada locação
 
