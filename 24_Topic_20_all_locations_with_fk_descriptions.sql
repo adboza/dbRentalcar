@@ -1,0 +1,13 @@
+-- SQLite
+
+-- Tarefa 20 - Todas as locações realizadas, nome do cliente, do automóvel e do funcionário vinculados
+
+SELECT LOCATIONS.ID AS 'LOCATION ID',
+       CUSTOMERS.NAME,
+       CUSTOMERS.LASTNAME,
+       CARS.NAME AS 'CAR',
+       EMPLOYEES.NAME AS 'EMPLOYEE'
+       FROM LOCATIONS
+       JOIN CUSTOMERS ON (LOCATIONS.CUSTOMER_ID = CUSTOMERS.ID)
+       JOIN CARS ON (LOCATIONS.CAR_ID = CARS.ID)
+       JOIN EMPLOYEES ON (LOCATIONS.EMPLOYEE_ID = EMPLOYEES.ID);

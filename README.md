@@ -39,11 +39,11 @@ Neste repositório foi resolvida a tarefa abaixo referente ao treinamento SQL Ca
 
 - [x] 19 - Construa uma consulta capaz de exibir somente os clientes que realizaram mais ou igual a 2 locações.
 
-- [ ] 20 - Construa uma consulta capaz de exibir todas as locações realizadas, assim como também o nome do cliente, do automóvel e do funcionário vinculados em cada locação
+- [x] 20 - Construa uma consulta capaz de exibir todas as locações realizadas, assim como também o nome do cliente, do automóvel e do funcionário vinculados em cada locação
 
-- [ ] 21 - Construa uma consulta capaz de exibir quantas locações existem na tabela de LOCATIONS
+- [x] 21 - Construa uma consulta capaz de exibir quantas locações existem na tabela de LOCATIONS
 
-- [ ] 22 - Construa uma consulta capaz de exibir qual foi a locação com o TOTAL com maior valor.
+- [x] 22 - Construa uma consulta capaz de exibir qual foi a locação com o TOTAL com maior valor.
 
-- [ ] 23 - Construa uma consulta capaz de exibir todas as locações realizadas, entre as datas “2022-05-20” a “2022-12-25”
+- [x] 23 - Construa uma consulta capaz de exibir todas as locações realizadas, entre as datas “2022-05-20” a “2022-12-25”
 
